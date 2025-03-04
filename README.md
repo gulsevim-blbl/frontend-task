@@ -11,6 +11,7 @@ Figma tasarımında verilen mobil odaklı arayüz, **React** ve **Tailwind CSS**
 - **Tailwind CSS** ([Dokümantasyon](https://tailwindcss.com/))
 - **Ant Design** ([Dokümantasyon](https://ant.design/))
 - **Material UI** ([Dokümantasyon](https://mui.com/))
+- **React Icons** ([Dokümantasyon](https://react-icons.github.io/react-icons/))
 - **Mock Data (JSON)**
 
 ## Kurulum
