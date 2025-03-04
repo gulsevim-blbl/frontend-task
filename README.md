@@ -6,7 +6,7 @@ Figma tasarımında verilen mobil odaklı arayüz, **React** ve **Tailwind CSS**
 
 ## Kullanılan Teknolojiler
 
-- **React 18**
+- **React**
 - **Vite**
 - **Tailwind CSS** ([Dokümantasyon](https://tailwindcss.com/))
 - **Ant Design** ([Dokümantasyon](https://ant.design/))
