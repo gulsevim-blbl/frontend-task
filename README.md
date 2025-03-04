@@ -35,7 +35,10 @@ npm run dev
 
 Uygulama varsayılan olarak [http://localhost:5173](http://localhost:5173) adresinde çalışacaktır.
 
-
+## Not: 
+```bash
+Figma tasarım dosyasına erişim için Developer Mode özelliği ücretli olduğundan, tasarım dosyalarına erişim sağlanamamıştır. Bu nedenle, tasarımın bazı kısımlarında tam olarak birebir aynısını sağlayamamış olsam da, benzer bir şekilde geliştirmeye çalıştım.
+```
 ## Ekran Görüntüleri
 ![image](https://github.com/user-attachments/assets/0b7ad139-e7e2-4169-b824-4aeea5a54c25)
 
