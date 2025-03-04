@@ -62,7 +62,9 @@ Uygulama varsayılan olarak [http://localhost:5173](http://localhost:5173) adres
 
 ## --
 ![image](https://github.com/user-attachments/assets/1206d232-655e-4faf-a696-d8727413e925)
-![image](https://github.com/user-attachments/assets/9256919c-7467-47f2-b24e-fb6f1c7e5974)
+
+![image](https://github.com/user-attachments/assets/aa0b3467-ba7d-4b09-9724-69494ae2245d)
+
 ![image](https://github.com/user-attachments/assets/6dd8323a-cd89-41fb-b7ed-375a9ddc6ca4)
 
 
