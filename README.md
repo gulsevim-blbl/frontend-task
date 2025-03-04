@@ -2,6 +2,8 @@
 
 Figma tasarımında verilen mobil odaklı arayüz, **React** ve **Tailwind CSS** kullanılarak geliştirilmiştir. Proje, farklı mobil cihazlarda uyumlu çalışacak şekilde **responsive** olarak tasarlanmıştır.
 
+## Tamamlanma Süresi: 2 Gündür.
+
 ## Kullanılan Teknolojiler
 
 - **React 18**
