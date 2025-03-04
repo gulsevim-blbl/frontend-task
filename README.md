@@ -35,11 +35,14 @@ Uygulama varsayılan olarak [http://localhost:5173](http://localhost:5173) adres
 
 
 ## Ekran Görüntüleri
-![image](https://github.com/user-attachments/assets/f916ba65-72b0-4645-9ba7-5a20772397aa)
+![image](https://github.com/user-attachments/assets/0b7ad139-e7e2-4169-b824-4aeea5a54c25)
 
-![image](https://github.com/user-attachments/assets/7bac5604-1b26-429c-bca7-ef671919f245)
 
-![image](https://github.com/user-attachments/assets/f466f9a6-bd84-4c80-a26f-bdd1a5ea1b6e)
+![image](https://github.com/user-attachments/assets/259e9bc0-c52d-4a45-b8ed-16f7ebda9e7e)
+
+
+![image](https://github.com/user-attachments/assets/d6d34f71-8dbf-4788-9cdd-907556fd3c6f)
+
 
 ### Farklı Ekran Boyutları
 
@@ -55,6 +58,13 @@ Uygulama varsayılan olarak [http://localhost:5173](http://localhost:5173) adres
 ![image](https://github.com/user-attachments/assets/da7e0a6e-d43e-4788-ad87-d2258e473191)
 
 ![image](https://github.com/user-attachments/assets/6b96a9be-9d0b-4a55-9481-161a24414309)
+
+
+## --
+![image](https://github.com/user-attachments/assets/1206d232-655e-4faf-a696-d8727413e925)
+![image](https://github.com/user-attachments/assets/9256919c-7467-47f2-b24e-fb6f1c7e5974)
+![image](https://github.com/user-attachments/assets/6dd8323a-cd89-41fb-b7ed-375a9ddc6ca4)
+
 
 
 
