@@ -33,24 +33,25 @@ export default function LabelBottomNavigation() {
         sx={{ backgroundColor: "#29292C", borderRadius: "16px" }}
         value={value}
         onChange={handleChange}
+        showLabels={false}
       >
         <BottomNavigationAction
-          label="Home"
+          // label="Home"
           value="/"
           icon={<HomeIcon />}
-          sx={{ color: "white" }}
+          sx={{ color: value === "/" ? "#a099ff" : "white" }}
         />
         <BottomNavigationAction
-          label="Graphic"
+          // label="Graphic"
           value="/graphic"
           icon={<GraphicEqIcon />}
-          sx={{ color: "white" }}
+          sx={{ color: value === "/" ? "#a099ff" : "white" }}
         />
         <BottomNavigationAction
-          label="Setting"
+          // label="Setting"
           value="/settings"
           icon={<SettingsIcon />}
-          sx={{ color: "white" }}
+          sx={{ color: value === "/" ? "#a099ff" : "white" }}
         />
       </BottomNavigation>
     </Box>
