@@ -41,11 +41,9 @@ Uygulama varsayılan olarak [http://localhost:5173](http://localhost:5173) adres
 Figma tasarım dosyasına erişim için Developer Mode özelliği ücretli olduğundan, tasarım dosyalarına erişim sağlanamamıştır. Bu nedenle, tasarımın bazı kısımlarında tam olarak birebir aynısını sağlayamamış olsam da, benzer bir şekilde geliştirmeye çalıştım.
 ```
 ## Ekran Görüntüleri
-![image](https://github.com/user-attachments/assets/0b7ad139-e7e2-4169-b824-4aeea5a54c25)
-
+![Ekran görüntüsü 2025-03-05 173522](https://github.com/user-attachments/assets/064c98aa-4f32-44ff-a03d-1be779f75735)
 
 ![image](https://github.com/user-attachments/assets/259e9bc0-c52d-4a45-b8ed-16f7ebda9e7e)
-
 
 ![image](https://github.com/user-attachments/assets/fc9e3baa-89d5-46f6-bf06-7879eef0b11b)
 
