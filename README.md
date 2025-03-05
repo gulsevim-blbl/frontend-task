@@ -47,7 +47,7 @@ Figma tasarım dosyasına erişim için Developer Mode özelliği ücretli oldu�
 ![image](https://github.com/user-attachments/assets/259e9bc0-c52d-4a45-b8ed-16f7ebda9e7e)
 
 
-![image](https://github.com/user-attachments/assets/d6d34f71-8dbf-4788-9cdd-907556fd3c6f)
+![image](https://github.com/user-attachments/assets/fc9e3baa-89d5-46f6-bf06-7879eef0b11b)
 
 
 ### Farklı Ekran Boyutları
